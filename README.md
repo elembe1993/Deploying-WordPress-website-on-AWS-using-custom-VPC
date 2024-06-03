@@ -1,3 +1,6 @@
+
+![Alt text](2._Host_a_WordPress_Website_on_AWS.png)
+
 # Deploying-WordPress-website-on-AWS-using-custom-VPC
 Hosting a WordPress Website on AWS
 This repository contains the resources and scripts used to deploy a WordPress website on Amazon Web Services (AWS). The project leverages various AWS services to ensure high availability, scalability, and security for the WordPress application. Below is a detailed guide on the architecture, deployment scripts, and steps to set up the WordPress site.
